@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h2><img src = "https://cdn-icons-png.flaticon.com/512/206/206853.png" alt="profile" width="80">About me</h2>
+
+> *“For the things we have to learn before we can do them, we learn by doing them.”* - Aristotle
+
+- 🙋**Name:** José Leyva
+
 <!--
 **JosephLeyva/JosephLeyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
