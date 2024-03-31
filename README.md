@@ -6,7 +6,7 @@
 
 - 🙋**Name:** José Leyva
 - 📍 **Current Location:** Hermosillo, Sonora, México
-- 🛠️**Skills:** Front-End Development and Data / ML Scientist
+- 🛠️**Skills:** Full-Stack Development and Data / ML Scientist
 - 💬**Languages:** English and Spanish
 - 🌐**Nationality:** 🇲🇽 México
 - 📫 **How to reach me:** 
